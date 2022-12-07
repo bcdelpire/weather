@@ -6,7 +6,7 @@
     - cnn_model.h5
     - combined_model.h5
     
-2. Upload the files to a Jupyter notebook environment of your choice.
+2. Upload the files to a Jupyter Notebook environment of your choice.
     - https://jupyterhub.cs.mtsu.edu/azuread/hub/home
 
 3. Open the notebook, Deployment.ipynb, and run!
